@@ -4,7 +4,8 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <uses-sdk android:minSdkVersion="17" />
+    <!--Fix: This 'minSdkVersion' value is not used since it is overridden by the value specified in Gradle build script-->
+    <!--<uses-sdk android:minSdkVersion="17" />-->
 
     <application
         android:icon="@drawable/ic_launcher"

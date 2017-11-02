@@ -7,5 +7,6 @@
     <string name="clear">Clear</string>
     <string name="invalid_tweet">Invalid tweet</string>
     <string name="important_identifier">*</string>
-    
+    <!--Fix: move hardcoded string into here-->
+    <string name="my_old_tweets">My old tweets</string>
 </resources>
